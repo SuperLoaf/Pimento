@@ -5,5 +5,5 @@ def isShitty?
 end
 
 def makeShitty
-	#TODO - Anything useful
+	return "Man, this code is awful!"
 end
